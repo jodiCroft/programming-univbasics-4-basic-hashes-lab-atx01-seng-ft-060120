@@ -4,9 +4,9 @@ end
 
 def my_hash
   {
-    breakfast : "eggs and bacon",
-    lunch : "avocado toast",
-    dinner : "meatloaf"
+    breakfast: "eggs and bacon",
+    lunch: "avocado toast",
+    dinner: "meatloaf"
 }
 end
 
