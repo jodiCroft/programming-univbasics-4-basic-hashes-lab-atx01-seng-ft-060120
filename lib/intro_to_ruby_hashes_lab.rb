@@ -3,7 +3,9 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  {breakfast : "eggs and bacon",
+  lunch : "avocado toast",
+  dinner : "meatloaf"}
 end
 
 def pioneer
